@@ -1,0 +1,6 @@
+{
+  "name": "CampusMate - University Student Productivity Hub",
+  "description": "A modern, responsive university student productivity suite featuring a dashboard, study planner with Pomodoro timer, class timetable, assignment deadline tracker, exam countdown, personal notes, and daily to-do list with local storage.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
